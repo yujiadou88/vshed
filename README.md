@@ -1,6 +1,6 @@
 # Viral Shedding and Clinical Illness (Subproject of the Hong Kong NPI Study)
 
-This repository contains the data and analysis scripts for the "viral shedding and clinical illness" subproject of the [Hong Kong NPI Study](HK_NPI_study.htm).
+This repository contains the data and analysis scripts for the "viral shedding and clinical illness" subproject of the [Hong Kong NPI Study](https://github.com/yujiadou88/HK_NPI_Study/blob/main/README.md).
 
 In acute influenza virus infections most viral shedding occurs within a few days of illness onset, and the degree of viral shedding correlates with symptoms and tympanic temperature.
 
